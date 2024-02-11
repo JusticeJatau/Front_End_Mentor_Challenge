@@ -54,14 +54,14 @@ screenshots to the projects are in the (./Screenshots) directory.
 
 So what i've learned while building this project are:
 
-1. i learned how to confidently finish my own projects even though i've never finish one before.
-2. i learned about responsive design in general including how to use css flexbox, grid and media queries, even though i am not so good at it.
-3. i understood better how other css properties works.
-4. it also help me to build confidence in my skills.
+- i learned how to confidently finish my own projects even though i've never finish one before.
+- i learned about responsive design in general including how to use css flexbox, grid and media queries, even though i am not so good at it.
+- i understood better how other css properties works.
+- it also help me to build confidence in my skills.
 
 ### Continued development
 
-I will love to focus more on responsive desig
+I will love to focus more on responsive design
 
 ## Author
 
@@ -70,5 +70,5 @@ I will love to focus more on responsive desig
 
 ## Acknowledgments
 
-- I will like to thank [@JessicaChan](https://www.youtube.com/thecodercoder) cause i found this challenge on her youtube channel which helped me alot, and also to my friend [@Sagir-M-Kabeer](https://github.com/Sageer-M-Kabeer) who encoraged me and gave me the motivation to continue on the challenge.
+I will like to thank [@JessicaChan](https://www.youtube.com/thecodercoder) cause i found this challenge on her youtube channel which helped me alot, and also to my friend [@Sagir-M-Kabeer](https://github.com/Sageer-M-Kabeer) who encoraged me and gave me the motivation to continue on the challenge.
 
