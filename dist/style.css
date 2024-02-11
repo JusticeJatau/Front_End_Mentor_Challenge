@@ -242,7 +242,7 @@ h1, h2, h3 {
 }
 
 .card h3:hover {
-  color: var(--Bright_Cyan);
+  color: var(--Lime_Green);
 }
 
 .card img {
@@ -295,7 +295,7 @@ svg {
 }
 
 .icons svg:hover {
-  fill: var(--Bright_Cyan);
+  fill: var(--Lime_Green);
 }
 
 .footer-second {
@@ -316,7 +316,7 @@ svg {
 }
 
 .footer-second a:hover {
-  color: var(--Bright_Cyan);
+  color: var(--Lime_Green);
 }
 
 .footer-last {
@@ -475,7 +475,7 @@ svg {
     fill: var(--White);
   }
   .icons svg:hover {
-    fill: var(--Bright_Cyan);
+    fill: var(--Lime_Green);
   }
   .footer-second {
     display: flex;
@@ -494,7 +494,7 @@ svg {
     text-decoration: none;
   }
   .footer-second a:hover {
-    color: var(--Bright_Cyan);
+    color: var(--Lime_Green);
   }
   .footer-last {
     display: flex;
