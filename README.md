@@ -33,7 +33,7 @@ screenshots to the projects are in the (./Screenshots) directory.
 ### Links
 
 - Solution URL: [Github Solution](https://github.com/JusticeJatau/Front_End_Mentor_Challenge?tab=readme-ov-file)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://justicejatau.github.io/Front_End_Mentor_Challenge/)
 
 ## My process
 
