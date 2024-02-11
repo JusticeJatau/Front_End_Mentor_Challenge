@@ -101,7 +101,7 @@ body{
 }
 .side-nav .content a:hover{
 
-    color: var(--Bright_Cyan);
+    color: var(--Lime_Green);
 }
 .invite{
     background: linear-gradient(90deg, var(--Bright_Cyan), var(--Lime_Green));
@@ -219,7 +219,7 @@ h1,h2,h3{
 }
 
 .card h3:hover {
-  color: var(--Bright_Cyan);
+  color: var(--Lime_Green);
 }
 
 .card img {
@@ -266,7 +266,7 @@ svg{
     fill: var(--White);
 }
 .icons svg:hover{
-    fill: var(--Bright_Cyan);
+    fill: var(--Lime_Green);
 }
 .footer-second{
     display: flex;
