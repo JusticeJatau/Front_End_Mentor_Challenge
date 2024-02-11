@@ -71,3 +71,4 @@ I will love to focus more on responsive desig
 ## Acknowledgments
 
 - I will like to thank [@JessicaChan](https://www.youtube.com/thecodercoder) cause i found this challenge on her youtube channel which helped me alot, and also to my friend [@Sagir-M-Kabeer](https://github.com/Sageer-M-Kabeer) who encoraged me and gave me the motivation to continue on the challenge.
+
